@@ -1,0 +1,1 @@
+# M1_Embedded-type_Implementation-of-smart-home-gateway-for-movement-monitoring
