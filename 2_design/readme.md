@@ -15,4 +15,15 @@ creating part but instead of clicking Android SMS, you want to select
 Android Service, then you want to select play a specific song to play any
 song as per your wish.
 - After that click on Create Action
+## ESP-12E ARCHITECTURE
+- ESP8266EX also integrates an enhanced version of Tensilica's L106
+Diamond series 32-bit processor, with on-chip SRAM, besides the Wi-Fi
+functionalities. ESP8266EX _is often integrated with external sensors and
+other application specific devices through its GPIOs; codes for such
+applications are provided in examples in the SDK. Espressif Systems' Smart
+Connectivity Platform (ESCP) demonstrates sophisticated systemlevel
+features include fast sleep/wake context switching for energyefficient VolP,
+adaptive radio biasing. For low-power operation, advance signal
+processing, and spur cancellation and radio co-existence features for
+common cellular, Bluetooth, DDR, LVDS, LCD interference mitigation.
 
