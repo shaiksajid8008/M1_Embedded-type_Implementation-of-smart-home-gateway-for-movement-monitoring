@@ -1,4 +1,4 @@
-## working process
+## Structural and behavioral
 IFTTT is a web-based service by which we can create chains of conditional
 statements, called applets. Using these applets, we can send Emails, posts to
 Twitter, posts to Facebook, play music, SMS, notifications, etc. Here in this
@@ -15,7 +15,7 @@ creating part but instead of clicking Android SMS, you want to select
 Android Service, then you want to select play a specific song to play any
 song as per your wish.
 - After that click on Create Action
-## ESP-12E ARCHITECTURE
+## Architecture Level
 - ESP8266EX also integrates an enhanced version of Tensilica's L106
 Diamond series 32-bit processor, with on-chip SRAM, besides the Wi-Fi
 functionalities. ESP8266EX _is often integrated with external sensors and
