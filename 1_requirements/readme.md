@@ -83,3 +83,17 @@ like walking, standing, sitting, lying down, falling, and the transitions betwee
 * When:The system detects the abnormal activity and sends immediately an emergency alert
 * Why: The tools organise this information in a way that makes it easy for you to find the entires again the data may also be searchable.
 * How: it works simple and easily using Gyroscope Sensor
+## Detail Requirements
+_HIGH LEVEL REQUIREMENTS_
+|   ID  |    Descripition   |        Status      |
+| ----  |  ---------------- | ------------------ |
+| HLR1  | DATA ACCESS       | user need to access |
+| HLR2  | sim activation    | filter by princes abd product |
+
+_LOW LEVEL REQUIREMENTS_
+| ID  | Description | status |
+| --- | ----------- | ------ |
+| LLR1 | User Inputs | to check the option they choose |
+| LLR2 | Basic operation | to generate message |
+| LLR3 | Multifile Approach | To reduce the code structure |
+
