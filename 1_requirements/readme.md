@@ -32,21 +32,7 @@ GATEWAY FOR MOVEMENT MONITORING
 OF ELDER PEOPLE The running cost needs an working system with an the battery backsups.and we required some NodeMCU ESP8266 WiFi development board  MPU6050 Accelerometer and Gyroscope Sensor And it well cost more
 ## Features
 802.11 b/g/n
-Integrated low power 32-bit MCU Integrated 10 -
-bit ADC
-Integrated TCP/IP protocol stack
-Integrated TR switch, balun, LNA, power amplifier and matching network
-Integrated PLL, regulators, and power management units
-Supports antenna diversity
-Wi-Fi 2.4 GHz, support WPA/WPA2
-Support STA/AP/STA+AP operation modes
-Support Smart Link Function for bA, PWM, GPIO STBC,
-MIMO, 2x1 MIMO
-A-MPDU & _A-MSDU aggregation and 0.4s guard interval
-Deep sleep power < 5uA
-Wake up and transmit packets in < 2ms Standby power
-consumption of< 1.0mW (DTIM3)
-+20dBm output power in 802.11b mode
+Integrated low power 32-bit MCU Integrated 10-bit ADC Integrated TCP/IP protocol stack Integrated TR switch, balun, LNA, power amplifier and matching network Integrated PLL, regulators, and power management units Supports antenna diversity Wi-Fi 2.4 GHz, support WPA/WPA2 Support STA/AP/STA+AP operation modes Support Smart Link Function for bA, PWM, GPIO STBC,MIMO, 2x1 MIMO A-MPDU & _A-MSDU aggregation and 0.4s guard interval Deep sleep power < 5uA Wake up and transmit packets in < 2ms Standby power consumption of< 1.0mW (DTIM3) +20dBm output power in 802.11b mode
 ## Hardware Requirements
 - NodeMCU ESP8266 WiFi development board
 - MPU6050 Accelerometer and Gyroscope Sensor
