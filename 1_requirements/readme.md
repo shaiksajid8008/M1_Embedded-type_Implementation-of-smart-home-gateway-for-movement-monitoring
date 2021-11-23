@@ -68,7 +68,7 @@ via SMS.
 - Now, click on the documentation to get the key which will be used in our programming part
 - After that click on create
 - Next, search for webhooks and select it
-- After clicking the webhooks, now you want to select “Receive a web request” and give an event name as per your wish. In my case, I have given fall detect
+- After clicking the webhooks now you want to select Receive a web request and give an event name as per your wish. In my case I have given fall detect
 ## SWOT Analysis
 - this project is use full for elder people in emergency alert.
 - The system detects the abnormal activity and sends immediately an emergency alert
