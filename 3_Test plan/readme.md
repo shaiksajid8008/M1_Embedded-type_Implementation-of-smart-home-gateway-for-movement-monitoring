@@ -9,7 +9,7 @@
 | 6 | Add to contact | [1] Now, you want to enter your phone number with country code [2] then click on create action  |
 | 7 | Final step | if you want to play any song when the magnitude exceeds the thresh hold value, you can set any song to play by repeating these all step from the creating part but instead of clicking Android SMS, you want to select Android Service, then you want to select play a specific song to play any song as per your wish.   |
 | 8 | Exit | After that click on Create Action. |
-### Expected Output:
+### Expected Output
 * FALL DETECTED TAKE ACTION IMMEDIATELY
 * FALL DETECTED TAKE ACTION IMMEDIATELY
                  
