@@ -1,5 +1,3 @@
-// IoT based Fall Detection using NodeMCU and MPU6050 Sensor
-//https://theiotprojects.com
 #include <Wire.h>
 #include <ESP8266WiFi.h>
 const int MPU_addr=0x68; // I2C address of the MPU-6050
