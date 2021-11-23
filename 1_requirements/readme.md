@@ -56,14 +56,7 @@ consumption of< 1.0mW (DTIM3)
 - c
 - Arduino IDE
 - ## Defining our System
-The system has been implemented using NodeMCU ESP8266 WiFi. The
-system has employed accelerometer of a human to find the fall detection
-status of elde people.According to the command given by microcontroller
-will send the message to authorized person. 3-axis accelerometer sensor is
-placed on the hands or chest of an elder person. In case if the person is alone
-in the home and he suddenly fall down, then immediately the accelerometer
-sensor gets an alert and can be informed to nearby hospitals as an emergency
-via SMS.
+The system has been implemented using NodeMCU ESP8266 WiFi.The system has employed accelerometer of a human to find the fall detection status of elde people.According to the command given by microcontroller will send the message to authorized person. 3-axis accelerometer sensor is placed on the hands or chest of an elder person. In case if the person is alone in the home and he suddenly fall down, then immediately the accelerometer sensor gets an alert and can be informed to nearby hospitals as an emergency via SMS.
 - To use the IFTTT, sign in to your IFTTT account if you already have one or create an account.
 - Now, click on the documentation to get the key which will be used in our programming part
 - After that click on create
@@ -84,7 +77,6 @@ _HIGH LEVEL REQUIREMENTS_
 | ----  |  ---------------- | ------------------ |
 | HLR1  | DATA ACCESS       | user need to access |
 | HLR2  | sim activation    | filter by princes abd product |
-
 _LOW LEVEL REQUIREMENTS_
 | ID  | Description | status |
 | --- | ----------- | ------ |
