@@ -72,8 +72,7 @@ via SMS.
 ## SWOT Analysis
 - this project is use full for elder people in emergency alert.
 - The system detects the abnormal activity and sends immediately an emergency alert
-- The main aim to recognize the human fall detection and their movements
-like walking, standing, sitting, lying down, falling, and the transitions between them.
+- The main aim to recognize the human fall detection and their movements like walking, standing, sitting, lying down, falling, and the transitions between them.
 ## 4W's and 1'H
 - What - This project is very use full for human fall activity for use of elder people.
 - When - The system detects the abnormal activity and sends immediately an emergency alert
