@@ -52,7 +52,7 @@ consumption of< 1.0mW (DTIM3)
 - MPU6050 Accelerometer and Gyroscope Sensor
 - Jumper Wires
 - Bread Board
-# software requirements
+### software requirements
 - c
 - Arduino IDE
 - ## Defining our System
