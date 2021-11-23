@@ -1,4 +1,4 @@
-# Requirements:
+# Requirements
 ## _IMPLEMENTATION OF SMART HOME IMPLEMENTATION OF SMART HOME GATEWAY FOR MOVEMENT MONITORING OF ELDER PEOPLE
 ## Introduction
 The main aim is to recognize the fall detection of elder people. The
@@ -26,11 +26,11 @@ complementary information. Experiments on the i3DPost and the INRIA
 Xmas Motion Acquisition Sequences (IXMAS) multi-view human action
 datasets provide significant classification accuracies.
 # Cost And Features
-## costs:
+## costs
 The Cost for the IMPLEMENTATION OF SMART HOME
 GATEWAY FOR MOVEMENT MONITORING
 OF ELDER PEOPLE The running cost needs an working system with an the battery backsups.and we required some NodeMCU ESP8266 WiFi development board  MPU6050 Accelerometer and Gyroscope Sensor And it well cost more
-## Features:
+## Features
 802.11 b/g/n
 Integrated low power 32-bit MCU Integrated 10 -
 bit ADC
@@ -47,12 +47,12 @@ Deep sleep power < 5uA
 Wake up and transmit packets in < 2ms Standby power
 consumption of< 1.0mW (DTIM3)
 +20dBm output power in 802.11b mode
-## Hardware Requirements:
+## Hardware Requirements
 - NodeMCU ESP8266 WiFi development board
 - MPU6050 Accelerometer and Gyroscope Sensor
 - Jumper Wires
 - Bread Board
-# software requirements:
+# software requirements
 - c
 - Arduino IDE
 - ## Defining our System
