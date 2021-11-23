@@ -64,15 +64,11 @@ placed on the hands or chest of an elder person. In case if the person is alone
 in the home and he suddenly fall down, then immediately the accelerometer
 sensor gets an alert and can be informed to nearby hospitals as an emergency
 via SMS.
-- To use the IFTTT, sign in to your IFTTT account if you already have one or
-create an account.
-- Now, click on the documentation to get the key which will be used in our
-programming part
+- To use the IFTTT, sign in to your IFTTT account if you already have one or create an account.
+- Now, click on the documentation to get the key which will be used in our programming part
 - After that click on create
 - Next, search for webhooks and select it
-- After clicking the webhooks, now you want to select “Receive a web
-request” and give an event name as per your wish. In my case, I have given
-fall detect
+- After clicking the webhooks, now you want to select “Receive a web request” and give an event name as per your wish. In my case, I have given fall detect
 ## SWOT Analysis
 - this project is use full for elder people in emergency alert.
 - The system detects the abnormal activity and sends immediately an emergency alert
