@@ -79,10 +79,10 @@ fall detect
 - The main aim to recognize the human fall detection and their movements
 like walking, standing, sitting, lying down, falling, and the transitions between them.
 ## 4W's and 1'H
-* What: This project is very use full for human fall activity for use of elder people.
-* When:The system detects the abnormal activity and sends immediately an emergency alert
-* Why: The tools organise this information in a way that makes it easy for you to find the entires again the data may also be searchable.
-* How: it works simple and easily using Gyroscope Sensor
+* What - This project is very use full for human fall activity for use of elder people.
+* When - The system detects the abnormal activity and sends immediately an emergency alert
+* Why - The tools organise this information in a way that makes it easy for you to find the entires again the data may also be searchable.
+* How - it works simple and easily using Gyroscope Sensor
 ## Detail Requirements
 _HIGH LEVEL REQUIREMENTS_
 |   ID  |    Descripition   |        Status      |
