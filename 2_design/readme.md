@@ -4,7 +4,7 @@ statements, called applets. Using these applets, we can send Emails, posts to
 Twitter, posts to Facebook, play music, SMS, notifications, etc. Here in this
 project, we are using IFTTT to send SMS notifications to the mobile phone
 when the system detects a fall.
-# STEPS TO IFTTT:
+# STEPS TO IFTTT
 - To use the IFTTT, sign in to your IFTTT account if you already have one or creating an account
 - Now, click on the documentation to get the key which will be used in our programming part.
 - After that click on create 
