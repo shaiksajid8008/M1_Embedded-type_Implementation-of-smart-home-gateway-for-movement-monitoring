@@ -1,6 +1,6 @@
 # Requirements:
 ## _IMPLEMENTATION OF SMART HOME IMPLEMENTATION OF SMART HOME GATEWAY FOR MOVEMENT MONITORING OF ELDER PEOPLE
-# Introduction
+## Introduction
 The main aim is to recognize the fall detection of elder people. The
 system is build making use of the motion detector accelerometer sensor.
 Human activity recognition is one of the major concern in health care
@@ -96,4 +96,3 @@ _LOW LEVEL REQUIREMENTS_
 | LLR1 | User Inputs | to check the option they choose |
 | LLR2 | Basic operation | to generate message |
 | LLR3 | Multifile Approach | To reduce the code structure |
-
