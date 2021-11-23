@@ -26,4 +26,3 @@ features include fast sleep/wake context switching for energyefficient VolP,
 adaptive radio biasing. For low-power operation, advance signal
 processing, and spur cancellation and radio co-existence features for
 common cellular, Bluetooth, DDR, LVDS, LCD interference mitigation.
-
