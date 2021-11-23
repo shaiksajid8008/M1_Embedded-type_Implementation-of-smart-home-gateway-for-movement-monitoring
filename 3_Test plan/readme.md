@@ -11,6 +11,4 @@
 | 8 | Exit | After that click on Create Action. |
 ### Expected Output
 * FALL DETECTED TAKE ACTION IMMEDIATELY
-* FALL DETECTED TAKE ACTION IMMEDIATELY
-                 
-                        **********
+* FALL DETECTED TAKE ACTION IMMEDIATELY                                
