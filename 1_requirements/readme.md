@@ -12,7 +12,7 @@ immediately the accelerometer sensor gets an alert and can be informed to
 near by hospitals as an emergency via alarm. The proposed work done
 activity recognition for high level activities (i.e sitting, standing, walking,
 climbing up and climbing down).
-## Research
+### Research
 The problem of human activity recognition can be approached using spatiotemporal variations in successive video frames. In this paper, a new human
 activity recognition technique is proposed using multi-view videos.Initially, a naive background subtraction using frame differencing between
 adjacent frames of a video is performed. Then, the motion information of
