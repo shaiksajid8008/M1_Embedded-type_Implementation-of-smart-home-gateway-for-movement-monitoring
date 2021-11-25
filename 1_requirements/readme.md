@@ -63,7 +63,9 @@ _HIGH LEVEL REQUIREMENTS_
 | ----  |  ---------------- | ------------------ |
 | HLR1  | DATA ACCESS       | user need to access |
 | HLR2  | sim activation    | filter by princes abd product |
+
 _LOW LEVEL REQUIREMENTS_
+
 | ID  | Description | status |
 | --- | ----------- | ------ |
 | LLR1 | User Inputs | to check the option they choose |
